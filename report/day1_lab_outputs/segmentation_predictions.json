@@ -915,7 +915,7 @@
     "instance_id": "traffic-003",
     "class_id": 2,
     "class_name": "car",
-    "score": 0.890111,
+    "score": 0.890112,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1477,7 +1477,7 @@
     "instance_id": "traffic-005",
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.870103,
+    "score": 0.870102,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -2286,7 +2286,7 @@
     "instance_id": "traffic-008",
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.768074,
+    "score": 0.768073,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -2601,7 +2601,7 @@
     "instance_id": "traffic-009",
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.73866,
+    "score": 0.738661,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -3050,7 +3050,7 @@
     "instance_id": "traffic-012",
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.676478,
+    "score": 0.676477,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -3739,7 +3739,7 @@
     "instance_id": "traffic-015",
     "class_id": 2,
     "class_name": "car",
-    "score": 0.60922,
+    "score": 0.609219,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -4026,7 +4026,7 @@
     "instance_id": "traffic-016",
     "class_id": 2,
     "class_name": "car",
-    "score": 0.608614,
+    "score": 0.608615,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -4456,7 +4456,7 @@
     "instance_id": "traffic-018",
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.501921,
+    "score": 0.501922,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -4603,7 +4603,7 @@
     "instance_id": "traffic-019",
     "class_id": 7,
     "class_name": "truck",
-    "score": 0.500354,
+    "score": 0.500352,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -5635,7 +5635,7 @@
     "instance_id": "traffic-023",
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.421325,
+    "score": 0.421323,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -5910,7 +5910,7 @@
     "instance_id": "traffic-024",
     "class_id": 7,
     "class_name": "truck",
-    "score": 0.394911,
+    "score": 0.39491,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -7783,7 +7783,7 @@
     "instance_id": "kitchen-003",
     "class_id": 45,
     "class_name": "bowl",
-    "score": 0.698697,
+    "score": 0.698698,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -10936,7 +10936,7 @@
     "instance_id": "kitchen-006",
     "class_id": 45,
     "class_name": "bowl",
-    "score": 0.528202,
+    "score": 0.528201,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -12389,7 +12389,7 @@
     "instance_id": "kitchen-009",
     "class_id": 0,
     "class_name": "person",
-    "score": 0.431437,
+    "score": 0.431438,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -12676,7 +12676,7 @@
     "instance_id": "kitchen-010",
     "class_id": 45,
     "class_name": "bowl",
-    "score": 0.372405,
+    "score": 0.372406,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -19572,7 +19572,7 @@
     "instance_id": "dining-007",
     "class_id": 0,
     "class_name": "person",
-    "score": 0.587339,
+    "score": 0.587338,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -20326,7 +20326,7 @@
     "instance_id": "dining-009",
     "class_id": 40,
     "class_name": "wine glass",
-    "score": 0.514034,
+    "score": 0.514033,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
